@@ -39,3 +39,25 @@
 .read-the-docs {
   color: #888;
 }
+
+.box {
+  width: 500px;
+  height: 700px;
+  background-color: rgb(255, 250, 250);
+  overflow: scroll;
+}
+
+.content {
+  width: 500px;
+  height: 2200px;
+  background-color: rgb(255, 250, 250);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.subcontent {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(113, 189, 255);
+}
